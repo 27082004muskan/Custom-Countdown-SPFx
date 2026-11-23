@@ -1,0 +1,14 @@
+{
+  "cacheVersion": "9.37.0_v24.19.0",
+  "fileVersions": [
+    [
+      "webparts/countdownCustom/components/ICountdownCustomProps.ts",
+      "aZUd5f0KggxRGi40301HmRDd5rQ=_GQhH838LhJs3CF3SY9dDvRbEbdE="
+    ],
+    [
+      "webparts/countdownCustom/CountdownCustomWebPart.ts",
+      "KHPg3zWHqhe3kK+TO+IqA+gwez0=_GQhH838LhJs3CF3SY9dDvRbEbdE="
+    ]
+  ],
+  "filesHash": "R_WqYBNdSwMnBCaPXBiPhw"
+}
